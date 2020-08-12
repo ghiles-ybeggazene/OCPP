@@ -1,0 +1,44 @@
+
+OCPP 1.6 : 
+
+- reservation d'un emplacement 
+- pilotage a distance de la recharge 
+- information sur le statut de la recharge 
+
+
+entreprise :  OCA open charge alliance  pays-bas
+
+
+utilise la norme SOAP 
+
+
+25 opérations sont décrites dans l'OCPP 1.5. Parmi celles-ci, 
+
+10 sont initiées par le point de charge :
+   Authorize,
+   Boot Notification,
+   Data Transfer,
+   Diagnostics Status Notification, 
+   Firmware Status Notification,
+   Heartbeat,
+   Meter Values, 
+   Start Transaction, 
+   Status Notification and Stop Transaction.
+
+
+15 par le système central : 
+   Cancel Reservation,
+   Change Availability, 
+   Change Configuration,
+   Clear Cache,
+   Data Transfer, 
+   Get Configuration,
+   Get Diagnostics,
+   Get Local List Version, 
+   Remote Start Transaction, 
+   Remote Stop Transaction, 
+   Reserve Now, Reset,
+   Send Local List,
+   Unlock Connector and Update Firmware.
+
+
