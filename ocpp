@@ -40,5 +40,29 @@ utilise la norme SOAP
    Reserve Now, Reset,
    Send Local List,
    Unlock Connector and Update Firmware.
+   
+   
+   
+   
+   communication  entre un point de charge et le système central,
+   
+   operationname.req()   ===>    requete 
+   
+   operationname.conf()  ===>  confirmation response 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 
 
